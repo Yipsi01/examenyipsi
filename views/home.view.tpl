@@ -1,6 +1,6 @@
 <div>
         <h1 id="examen-negocios-web">Examen Negocios Web</h1>
-        <p>Version 2018</p>
+        <p>Version 2019</p>
         <h2 id="requisitos">Requisitos</h2>
         <ol>
           <li>
